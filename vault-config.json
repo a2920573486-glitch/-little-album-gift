@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "edition": "ef11110f0c58801d6caf816ecb4ff48e",
+  "mode": "probe",
+  "kdf": {
+    "name": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 600000,
+    "salt": "6Y-NLi7sXU38Ed6DmTzKBxiMGB6R2v6PvwOeAN03vys"
+  },
+  "wrappedKey": {
+    "iv": "S9fNqZF0xOlOD5tn",
+    "data": "uABHsd8ZuQT1Y5hVsfaH3P4VShqblEctxcXfzivBLs01C5xX4d6ZCDcI3ciWy2_r"
+  },
+  "manifest": {
+    "id": "1176e7990c9bb485b2213b4b70367319",
+    "file": "vault/1176e7990c9bb485b2213b4b70367319.bin",
+    "size": 1540
+  }
+}
