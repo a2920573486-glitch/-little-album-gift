@@ -1,7 +1,7 @@
-# Little Album — connection test
+# The Little Album
 
-This repository contains a static viewer and encrypted synthetic test media only.
+A personal gift with a static viewer and locally encrypted media and writing.
 
-No personal photos, personal videos, letters, or decryption passwords are stored here. The password is supplied separately and used locally in the browser.
+This repository contains the public page shell and encrypted album files. It does not contain original media, plaintext private writing, or the access passcode. The passcode is provided separately and used only inside the visitor's browser.
 
-The initial version is for checking mobile access, image decryption, and video playback before any personal album is considered for publication.
+The QR code contains the website address only. GitHub Pages serves the site; the owner's computer does not need to remain online.

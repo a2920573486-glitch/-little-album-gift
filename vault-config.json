@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "edition": "4d362e5f1509c61b83fc31397abcd934",
-  "mode": "probe",
+  "edition": "48069a9256869745bdf8df6237e07006",
+  "mode": "full",
   "kdf": {
     "name": "PBKDF2",
     "hash": "SHA-256",
     "iterations": 600000,
-    "salt": "qVBQ4gAaxNHyxVEc0LBCEnACz9iiheNUznilO7PJME8"
+    "salt": "UTIYd1PWYFKnhXEaEnUKIqI2OL7FT30E34gJVG1wmuk"
   },
   "wrappedKey": {
-    "iv": "05tF_y-fcnHNSvW2",
-    "data": "6MmBqK9CrvqBJEJbeoPSSjjGLcwPQ6kd73RTmktHGifSe0eiZBsYByEYbGrSs5tP"
+    "iv": "DJbheUAbdjIZ-8xA",
+    "data": "AUHhf57auj9D-13Z3fiesOt1BeUuIfWpzLdvPBd5Qrhli2gpH3hISCbDDVrynfHj"
   },
   "manifest": {
-    "id": "34f8268cd05fb6e5dd7c9425db2336f0",
-    "file": "vault/34f8268cd05fb6e5dd7c9425db2336f0.bin",
-    "size": 1540
+    "id": "eb7349ebc7d445f3c59a50af3d6546c6",
+    "file": "vault/eb7349ebc7d445f3c59a50af3d6546c6.bin",
+    "size": 39279
   }
 }
